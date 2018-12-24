@@ -1,7 +1,7 @@
-$levitation_force = 6
+$levitation_forcee = 6
 def using_while
-  while $levitation_force < 10
+  while $levitation_forcee < 10
     puts "Wingardium Leviosa"
-    $levitation_force += 1
+    $levitation_forcee += 1
   end
 end
